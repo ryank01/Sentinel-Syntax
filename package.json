@@ -1,0 +1,15 @@
+{
+  "name": "sentinel-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark and colorful theme,representing the sentinel robots",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ryank01/Sentinel-Syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
